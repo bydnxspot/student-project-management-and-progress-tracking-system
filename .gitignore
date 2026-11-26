@@ -1,0 +1,5 @@
+uploads/*
+!uploads/.htaccess
+!uploads/index.php
+!uploads/.gitkeep
+.DS_Store
